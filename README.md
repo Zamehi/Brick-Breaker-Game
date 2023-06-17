@@ -29,7 +29,11 @@ the paddle, you will check for the pressed key if the pressed key is left arrow 
 move the paddle left and if key is right arrow key is pressed you will move the paddle to right
 (change its position). The ball will bounce back from the paddle and the screen boundary walls.
 
-https://github.com/Zamehi/Brick-Breaker-Game/assets/129313428/b0ce1e88-4148-41ac-8179-06216b91a26d
+
+
+https://github.com/Zamehi/Brick-Breaker-Game/assets/129313428/b5fbfe6a-3515-4c84-aa48-4434cb384f05
+
+
 
 When a brick breaks, a SCORE is awarded. The score depends upon the type of brick that will
 break as each brick has different score. All the bricks with the same color will have same score.
